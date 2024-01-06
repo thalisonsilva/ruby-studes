@@ -29,4 +29,8 @@ class Fila
   else
     puts "Fila vazia. Ninguém para atender."
   end
+
+  fila_do_supermercado {
+    
+  }
   
